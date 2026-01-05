@@ -366,7 +366,7 @@
           "label": "Depolama kullanımı"
         },
         "use-monospace-font": {
-          "description": "```\nTekdüze karakter genişliği için tek aralıklı yazı tipini kullanın.\n```",
+          "description": "```\nTekdüze karakter genişliği için tek aralıklı yazı tipini kullanın.\n```.",
           "label": "Tek aralıklı yazı tipi"
         }
       },
@@ -499,7 +499,7 @@
       "blocked": "Engellendi",
       "connect": "Bağlan",
       "connected-devices": "Bağlı cihazlar",
-      "connecting": "Bağlanılıyor…",
+      "connecting": "Bağlanılıyor….",
       "device-address": "Cihaz adresi",
       "disabled": "Bluetooth devre dışı",
       "disconnect": "Bağlantıyı Kes",
@@ -1032,11 +1032,11 @@
           "placeholder": "örn. spotify, vlc, mpv"
         },
         "scrolling-speed": {
-          "description": "Başlığın baştan sona kayması için saniye cinsinden süre",
+          "description": "Başlığın baştan sona kayması için saniye cinsinden süre.",
           "label": "Kaydırma hızı"
         },
         "scrolling-title": {
-          "description": "Uzun ortam başlıkları için sürekli kaydırmayı etkinleştirin",
+          "description": "Uzun ortam başlıkları için sürekli kaydırmayı etkinleştirin.",
           "label": "Kayan başlık"
         },
         "section": {
@@ -1044,7 +1044,7 @@
           "label": "Ortam oynatıcıları"
         },
         "visualizer-type": {
-          "description": "Ortam oynatımı için bir görselleştirme türü seçin",
+          "description": "Ortam oynatımı için bir görselleştirme türü seçin.",
           "label": "Görselleştirme türü"
         }
       },
@@ -1698,7 +1698,7 @@
         }
       },
       "enabled": {
-        "description": "Rıhtımı tamamen gösterin veya gizleyin",
+        "description": "Rıhtımı tamamen gösterin veya gizleyin.",
         "label": "Rıhtımı etkinleştir"
       },
       "monitors": {
@@ -2295,7 +2295,7 @@
       "settings": {
         "tooltip": "Eklenti ayarları"
       },
-      "settings-error-not-loaded": "Eklenti yüklenmedi",
+      "settings-error-not-loaded": "Eklenti yüklenmedi.",
       "settings-saved": "Eklenti ayarları kaydedildi.",
       "source": {
         "custom": "Özel kaynak",
@@ -2305,7 +2305,7 @@
         "add-custom": "Özel depo ekle",
         "add-dialog": {
           "description": "Bir GitHub deposunu eklenti kaynağı olarak ekle.",
-          "error": "Eklenti kaynağı eklenemedi",
+          "error": "Eklenti kaynağı eklenemedi.",
           "name": "Depo adı",
           "name-placeholder": "Özel Eklentilerim",
           "success": "Eklenti kaynağı başarıyla eklendi.",
@@ -2331,8 +2331,8 @@
       "update": "Güncelleme",
       "update-all": "Tümünü Güncelle ({count})",
       "update-all-success": "Tüm eklentiler başarıyla güncellendi.",
-      "update-available": "{count} eklenti için güncelleme mevcut",
-      "update-available_plural": "{count} eklenti güncellemesi mevcut",
+      "update-available": "Yeni bir eklenti güncellemesi mevcut",
+      "update-available_plural": "Yeni eklenti güncellemeleri mevcut ({count})",
       "update-error": "Eklenti güncellenemedi: {plugin}: {error}",
       "update-incompatible": "Noctalia v{version} veya üzeri gerektirir.",
       "update-pending": "v{mevcut} → v{yeni} (Noctalia v{gerekli} gerektirir)",
@@ -2794,8 +2794,8 @@
   },
   "toast": {
     "airplane-mode": {
-      "disabled": "Devre dışı",
-      "enabled": "Etkin",
+      "disabled": "Devre dışı.",
+      "enabled": "Etkin.",
       "title": "Uçak modu"
     },
     "battery": {
@@ -2825,7 +2825,7 @@
     },
     "dark-mode": {
       "dark-mode": "Karanlık mod",
-      "enabled": "Etkin",
+      "enabled": "Etkin.",
       "light-mode": "Aydınlık mod"
     },
     "do-not-disturb": {
@@ -2835,79 +2835,79 @@
       "enabled-desc": "Bu bildirimleri geçmişinizde bulacaksınız."
     },
     "internet": {
-      "limited": "İnternetsiz bağlandı"
+      "limited": "İnternetsiz bağlandı."
     },
     "ipc": {
       "powerpanel-deprecated": "PowerPanel artık SessionMenu olarak adlandırılıyor, bu IPC çağrısı yakında kullanımdan kaldırılacak. Lütfen \"ipc call sessionMenu toggle\" kullanın.",
       "sidepanel-deprecated": "SidePanel artık ControlCenter olarak adlandırılıyor, bu IPC çağrısı yakında kullanımdan kaldırılacak. Lütfen \"ipc call controlCenter toggle\" kullanın."
     },
     "keep-awake": {
-      "disabled": "Devre dışı",
-      "enabled": "Etkin"
+      "disabled": "Devre dışı.",
+      "enabled": "Etkin."
     },
     "keyboard-layout": {
-      "changed": "Klavye düzeni {layout} olarak değiştirildi",
+      "changed": "Klavye düzeni {layout} olarak değiştirildi.",
       "title": "Klavye"
     },
     "kofi": {
-      "opened": "Ko-fi sayfası tarayıcınızda açıldı"
+      "opened": "Ko-fi sayfası tarayıcınızda açıldı."
     },
     "missing-control-center": {
       "description": "Kontrol Merkezi araç takımı araç çubuğundan kaldırıldı. Araç çubuğundan tekrar erişmek için araç takımını yeniden eklemeniz gerekecek. Araç çubuğuna sağ tıklayarak da açabilirsiniz.",
       "label": "Son Kontrol Merkezi araç takımı kaldırıldı"
     },
     "night-light": {
-      "disabled": "Devre dışı",
-      "enabled": "Etkin",
-      "forced": "Zorla etkinleştirme",
-      "normal": "Normal mod",
-      "not-installed": "wlsunset kurulu değil"
+      "disabled": "Devre dışı.",
+      "enabled": "Etkin.",
+      "forced": "Zorla etkinleştirme.",
+      "normal": "Normal mod.",
+      "not-installed": "wlsunset kurulu değil."
     },
     "noctalia-performance": {
-      "disabled": "Performans modu devre dışı bırakıldı",
-      "enabled": "Performans modu etkinleştirildi",
+      "disabled": "Performans modu devre dışı bırakıldı.",
+      "enabled": "Performans modu etkinleştirildi.",
       "label": "Noctalia Performans"
     },
     "power-profile": {
-      "changed": "Güç profili değişti",
+      "changed": "Güç profili değişti.",
       "profile-name": "{profile}"
     },
     "recording": {
-      "failed-general": "Kayıtçı bir hata nedeniyle kapandı",
-      "failed-gpu": "gpu-screen-recorder beklenmedik şekilde kapandı",
-      "failed-start": "Kayıt başlatma başarısız oldu",
+      "failed-general": "Kayıtçı bir hata nedeniyle kapandı.",
+      "failed-gpu": "gpu-screen-recorder beklenmedik şekilde kapandı.",
+      "failed-start": "Kayıt başlatma başarısız oldu.",
       "no-portals": "Masaüstü portal çalışmıyor",
       "no-portals-desc": "xdg-desktop-portal ve bir kompozitör portalı (wlr/hyprland/gnome/kde) başlatın.",
       "not-installed": "gpu-screen-recorder kurulu değil",
       "not-installed-desc": "Ekran kaydı özelliklerini kullanmak için lütfen gpu-screen-recorder kurun.",
-      "saved": "Kayıt kaydedildi",
-      "started": "Kayıt başladı",
+      "saved": "Kayıt kaydedildi.",
+      "started": "Kayıt başladı.",
       "stopping": "Kayıt durduruluyor..."
     },
     "theming-processor-failed": {
-      "desc-generic": "Şablonlar işlenirken bir hatayla karşılaşıldı",
+      "desc-generic": "Şablonlar işlenirken bir hatayla karşılaşıldı.",
       "title-matugen": "Matugen şablon işleme başarısız oldu",
       "title-predefined": "Önceden tanımlanmış renk şeması işleme başarısız oldu"
     },
     "vpn": {
-      "connected": "'{name}' ile bağlantı kuruldu",
-      "disconnected": "'{name}' bağlantısı kesildi"
+      "connected": "'{name}' ile bağlantı kuruldu.",
+      "disconnected": "'{name}' bağlantısı kesildi."
     },
     "wallpaper-colors": {
-      "disabled": "Duvar kâğıdı renkleri devre dışı",
-      "enabled": "Duvar kâğıdı renkleri etkin",
+      "disabled": "Duvar kâğıdı renkleri devre dışı.",
+      "enabled": "Duvar kâğıdı renkleri etkin.",
       "label": "Duvar kâğıdı renkleri oluşturma",
-      "not-installed": "Matugen kurulu değil — duvar kâğıdı renk çıkarmak için gerekli"
+      "not-installed": "Matugen kurulu değil — duvar kâğıdı renk çıkarmak için gerekli."
     },
     "wifi": {
-      "connected": "'{ssid}' ile bağlandı",
+      "connected": "'{ssid}' ile bağlandı.",
       "connection-failed": "Bağlantı başarısız.",
-      "connection-timeout": "Bağlantı zaman aşımı",
-      "disabled": "Devre dışı",
-      "disconnected": "'{ssid}' bağlantısı kesildi",
-      "enabled": "Etkin",
-      "incorrect-password": "Yanlış şifre",
-      "network-not-found": "Ağ bulunamadı"
+      "connection-timeout": "Bağlantı zaman aşımı.",
+      "disabled": "Devre dışı.",
+      "disconnected": "'{ssid}' bağlantısı kesildi.",
+      "enabled": "Etkin.",
+      "incorrect-password": "Yanlış şifre.",
+      "network-not-found": "Ağ bulunamadı."
     }
   },
   "tooltips": {

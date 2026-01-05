@@ -86,8 +86,8 @@
         "custom-font": {
           "description": "時計表示用のカスタムフォントを選択します。",
           "label": "カスタムフォント",
-          "placeholder": "カスタムフォントを選択...",
-          "search-placeholder": "フォントを検索..."
+          "placeholder": "カスタムフォントを選択..。",
+          "search-placeholder": "フォントを検索..。"
         },
         "horizontal-bar": {
           "description": "ヒント: \\n を使用すると改行できます。",
@@ -315,8 +315,8 @@
         }
       },
       "section-editor": {
-        "placeholder": "追加するウィジェットを選択...",
-        "search-placeholder": "ウィジェットを検索..."
+        "placeholder": "追加するウィジェットを選択..。",
+        "search-placeholder": "ウィジェットを検索..。"
       },
       "spacer": {
         "width": {
@@ -366,7 +366,7 @@
           "label": "ストレージ使用量"
         },
         "use-monospace-font": {
-          "description": "```\nタイプライター体で翻訳します。\n\n```",
+          "description": "```\nタイプライター体で翻訳します。\n\n```。",
           "label": "等幅フォント"
         }
       },
@@ -499,11 +499,11 @@
       "blocked": "ブロック中",
       "connect": "接続",
       "connected-devices": "接続済みデバイス",
-      "connecting": "接続中...",
+      "connecting": "接続中..。",
       "device-address": "デバイスアドレス",
       "disabled": "Bluetooth は無効です",
       "disconnect": "切断",
-      "disconnecting": "切断中...",
+      "disconnecting": "切断中..。",
       "discoverable": "発見可能",
       "enable-message": "利用可能なデバイスを表示するには Bluetooth を有効にしてください。",
       "info": "情報",
@@ -512,10 +512,10 @@
       "pair": "ペア",
       "paired": "ペアリング済み",
       "paired-devices": "ペアリングされたデバイス",
-      "pairing": "ペアリング中...",
+      "pairing": "ペアリング中..。",
       "pairing-mode": "デバイスがペアリングモードになっていることを確認してください。",
       "refresh-devices": "デバイスを更新",
-      "scanning": "デバイスをスキャン中...",
+      "scanning": "デバイスをスキャン中..。",
       "signal": "信号",
       "signal-text": {
         "excellent": "信号: 良好",
@@ -681,14 +681,14 @@
       "clipboard-delete": "クリップボードの項目を削除",
       "clipboard-history-disabled": "クリップボード履歴は無効です",
       "clipboard-history-disabled-description": "設定で履歴を有効にするか、cliphist をインストールしてください",
-      "clipboard-loading": "クリップボード履歴を読み込み中...",
+      "clipboard-loading": "クリップボード履歴を読み込み中..。",
       "clipboard-loading-description": "お待ちください",
       "clipboard-search-description": "クリップボード履歴を検索",
       "command": "コマンド",
       "command-description": "シェルコマンドを実行する",
       "command-name": "コマンド",
       "emoji": "絵文字選択",
-      "emoji-loading": "絵文字を読み込み中...",
+      "emoji-loading": "絵文字を読み込み中..。",
       "emoji-loading-description": "お待ちください",
       "emoji-no-recent": "まだ最近使った絵文字はありません。",
       "emoji-search-description": "絵文字を検索してコピー"
@@ -696,9 +696,9 @@
     "unpin": "ピン留め解除"
   },
   "lock-screen": {
-    "authenticating": "認証中...",
+    "authenticating": "認証中..。",
     "authentication-failed": "認証に失敗しました",
-    "password": "パスワードを入力...",
+    "password": "パスワードを入力..。",
     "restart": "再起動",
     "shut-down": "シャットダウン",
     "suspend": "サスペンド",
@@ -881,11 +881,11 @@
     "enter-tooltip": "ツールチップを入力",
     "enter-width-pixels": "幅を入力（ピクセル）",
     "profile-picture-path": "/home/user/.face",
-    "search": "検索...",
+    "search": "検索..。",
     "search-icons": "例: noctalia, niri, battery, cloud",
     "search-launcher": "項目を検索...（または > でコマンド実行）",
-    "search-wallhaven": "Wallhaven で検索...",
-    "search-wallpapers": "壁紙を検索して絞り込む...",
+    "search-wallhaven": "Wallhaven で検索..。",
+    "search-wallpapers": "壁紙を検索して絞り込む..。",
     "select": "選択",
     "test": "テスト"
   },
@@ -963,7 +963,7 @@
     }
   },
   "session-menu": {
-    "action-in-seconds": "{seconds} 秒後に {action}...",
+    "action-in-seconds": "{seconds} 秒後に {action}..。",
     "hibernate": "ハイバネート（休止状態）",
     "lock": "ロック",
     "lock-and-suspend": "ロックしてサスペンド",
@@ -985,7 +985,7 @@
       },
       "noctalia": {
         "git-commit": "Git コミット:",
-        "git-commit-loading": "読み込み中...",
+        "git-commit-loading": "読み込み中..。",
         "installed-version": "現在のバージョン:",
         "latest-version": "最新のバージョン:",
         "section": {
@@ -1067,7 +1067,7 @@
       "title": "サウンド",
       "volumes": {
         "input-volume": {
-          "description": "マイクの音量レベル",
+          "description": "マイクの音量レベル。",
           "label": "入力音量"
         },
         "mute-input": {
@@ -1216,7 +1216,7 @@
         "button": "さらにダウンロード",
         "delete": "削除",
         "download": "ダウンロード",
-        "downloading": "ダウンロード中...",
+        "downloading": "ダウンロード中..。",
         "empty": "利用可能な配色がありません",
         "error": {
           "api-error": "API エラー: {status}",
@@ -1228,7 +1228,7 @@
           "rate-limit": "GitHub APIのレート制限を超えました",
           "title": "ダウンロード失敗"
         },
-        "fetching": "利用可能な配色を取得中...",
+        "fetching": "利用可能な配色を取得中..。",
         "installed": "インストール済み",
         "refresh": "更新",
         "success": {
@@ -1253,7 +1253,7 @@
       },
       "templates": {
         "compositors": {
-          "description": "コンポジタのテーマ設定",
+          "description": "コンポジタのテーマ設定。",
           "hyprland": {
             "description": "{filepath} を書き込んでください。"
           },
@@ -1282,7 +1282,7 @@
             "description-detected": "デフォルトプロファイルに適用されました。検出: {clients}",
             "description-missing": "コードエディタが検出されませんでした（VSCode または VSCodium）"
           },
-          "description": "アプリケーションごとのテーマ設定",
+          "description": "アプリケーションごとのテーマ設定。",
           "discord": {
             "description": "{client} 用に {filepath} を書き込みます。テーマを手動で有効化する必要があります。",
             "description-detected": "検出: {clients}",
@@ -1328,7 +1328,7 @@
           "alacritty": {
             "description": "{filepath} を書き込み、リロードします。"
           },
-          "description": "ターミナルエミュレータのテーマ設定",
+          "description": "ターミナルエミュレータのテーマ設定。",
           "foot": {
             "description": "{filepath} を書き込み、リロードします。"
           },
@@ -1344,7 +1344,7 @@
           }
         },
         "ui": {
-          "description": "デスクトップ環境と UI ツールキットのテーマ設定",
+          "description": "デスクトップ環境と UI ツールキットのテーマ設定。",
           "gtk": {
             "description": "{filepath} を書き込みます。"
           },
@@ -1456,8 +1456,8 @@
         "custom-font": {
           "description": "時計表示用のカスタムフォントを選択します。",
           "label": "カスタムフォント",
-          "placeholder": "カスタムフォントを選択...",
-          "search-placeholder": "フォントを検索..."
+          "placeholder": "カスタムフォントを選択..。",
+          "search-placeholder": "フォントを検索..。"
         },
         "enabled": {
           "description": "デスクトップに時計ウィジェットを表示します。",
@@ -1722,22 +1722,22 @@
         "default": {
           "description": "インターフェース全体で使用されるメインフォント。",
           "label": "メインフォント",
-          "placeholder": "フォントを選択...",
+          "placeholder": "フォントを選択..。",
           "scale": {
             "description": "標準テキストのサイズを拡大・縮小します。",
             "label": "メインフォントのサイズ"
           },
-          "search-placeholder": "フォントを検索..."
+          "search-placeholder": "フォントを検索..。"
         },
         "monospace": {
           "description": "数字や統計情報の表示に使用される等幅フォント。",
           "label": "等幅フォント",
-          "placeholder": "等幅フォントを選択...",
+          "placeholder": "等幅フォントを選択..。",
           "scale": {
             "description": "等幅テキストのサイズを拡大・縮小します。",
             "label": "等幅フォントのサイズ"
           },
-          "search-placeholder": "等幅フォントを検索..."
+          "search-placeholder": "等幅フォントを検索..。"
         },
         "reset-scaling": "サイズ設定をリセット",
         "section": {
@@ -2285,18 +2285,18 @@
         "no-plugins-description": "下の「利用可能なプラグイン」セクションからプラグインをインストールしてください。",
         "no-plugins-label": "インストールされているプラグインはありません"
       },
-      "installing": "{plugin} をインストール中...",
+      "installing": "{plugin} をインストール中..。",
       "open-plugins-tab": "プラグイン設定を開く",
       "plugin-settings-title": "{plugin} の設定",
       "refresh": {
-        "refreshing": "プラグインリストを更新中...",
+        "refreshing": "プラグインリストを更新中..。",
         "tooltip": "利用可能なプラグインを更新"
       },
       "settings": {
         "tooltip": "プラグイン設定"
       },
-      "settings-error-not-loaded": "プラグインは読み込まれていません",
-      "settings-saved": "プラグイン設定を保存しました",
+      "settings-error-not-loaded": "プラグインは読み込まれていません。",
+      "settings-saved": "プラグイン設定を保存しました。",
       "source": {
         "custom": "カスタムソース",
         "official": "公式"
@@ -2305,10 +2305,10 @@
         "add-custom": "カスタムリポジトリを追加",
         "add-dialog": {
           "description": "プラグインソースとして GitHub リポジトリを追加します。",
-          "error": "プラグインソースの追加に失敗しました",
+          "error": "プラグインソースの追加に失敗しました。",
           "name": "リポジトリ名",
           "name-placeholder": "マイカスタムプラグイン",
-          "success": "プラグインソースを追加しました",
+          "success": "プラグインソースを追加しました。",
           "title": "プラグインソースを追加",
           "url": "リポジトリの URL"
         },
@@ -2327,18 +2327,18 @@
       },
       "uninstall-error": "アンインストールに失敗しました: {error}",
       "uninstall-success": "{plugin} をアンインストールしました。",
-      "uninstalling": "{plugin} をアンインストール中...",
+      "uninstalling": "{plugin} をアンインストール中..。",
       "update": "アップデート",
       "update-all": "すべてアップデート ({count})",
       "update-all-success": "すべてのプラグインをアップデートしました。",
-      "update-available": "{count} 件のプラグインアップデートがあります",
-      "update-available_plural": "{count} 個のプラグインアップデートがあります",
+      "update-available": "新しいプラグインアップデートがあります。",
+      "update-available_plural": "新しいプラグインアップデートがあります（{count}件）。",
       "update-error": "プラグインのアップデートに失敗しました: {plugin}: {error}",
       "update-incompatible": "Noctalia v{version} 以降が必要です。",
       "update-pending": "v{current} → v{new} (Noctalia v{required} ga hitsuyou)",
       "update-success": "{plugin} を v{version} にアップデートしました。",
       "update-version": "v{current} → v{new}",
-      "updating": "更新中..."
+      "updating": "更新中..。"
     },
     "screen-recorder": {
       "audio": {
@@ -2794,8 +2794,8 @@
   },
   "toast": {
     "airplane-mode": {
-      "disabled": "無効",
-      "enabled": "有効",
+      "disabled": "無効。",
+      "enabled": "有効。",
       "title": "機内モード"
     },
     "battery": {
@@ -2825,7 +2825,7 @@
     },
     "dark-mode": {
       "dark-mode": "ダークモード",
-      "enabled": "有効",
+      "enabled": "有効。",
       "light-mode": "ライトモード"
     },
     "do-not-disturb": {
@@ -2835,77 +2835,77 @@
       "enabled-desc": "通知は履歴に保存されます。"
     },
     "internet": {
-      "limited": "インターネット未接続"
+      "limited": "インターネット未接続。"
     },
     "ipc": {
       "powerpanel-deprecated": "PowerPanel は SessionMenu に名称変更されました。この IPC コールはまもなく廃止されます。代わりに \"ipc call sessionMenu toggle\" を使用してください。",
       "sidepanel-deprecated": "SidePanel は ControlCenter に名称変更されました。この IPC コールはまもなく廃止されます。代わりに \"ipc call controlCenter toggle\" を使用してください。"
     },
     "keep-awake": {
-      "disabled": "無効",
-      "enabled": "有効"
+      "disabled": "無効。",
+      "enabled": "有効。"
     },
     "keyboard-layout": {
-      "changed": "キーボードレイアウトを {layout} に変更しました",
+      "changed": "キーボードレイアウトを {layout} に変更しました。",
       "title": "キーボード"
     },
     "kofi": {
-      "opened": "ブラウザで Ko-fi ページを開きました"
+      "opened": "ブラウザで Ko-fi ページを開きました。"
     },
     "missing-control-center": {
       "description": "コントロールセンターウィジェットがバーから削除されました。再度アクセスするには、ウィジェットを追加し直す必要があります。バーを右クリックして開くことも可能です。",
       "label": "最後のコントロールセンターが削除されました"
     },
     "night-light": {
-      "disabled": "無効",
-      "enabled": "有効",
-      "forced": "強制的に有効化",
-      "normal": "通常モード",
-      "not-installed": "wlsunset がインストールされていません"
+      "disabled": "無効。",
+      "enabled": "有効。",
+      "forced": "強制的に有効化。",
+      "normal": "通常モード。",
+      "not-installed": "wlsunset がインストールされていません。"
     },
     "noctalia-performance": {
-      "disabled": "パフォーマンスモード: 無効",
-      "enabled": "パフォーマンスモード: 有効",
+      "disabled": "パフォーマンスモード: 無効。",
+      "enabled": "パフォーマンスモード: 有効。",
       "label": "Noctalia パフォーマンス"
     },
     "power-profile": {
-      "changed": "電源プロファイルを変更しました",
+      "changed": "電源プロファイルを変更しました。",
       "profile-name": "{profile}"
     },
     "recording": {
-      "failed-general": "レコーダーがエラーで終了しました",
-      "failed-gpu": "gpu-screen-recorder が予期せず終了しました",
-      "failed-start": "録画を開始できませんでした",
+      "failed-general": "レコーダーがエラーで終了しました。",
+      "failed-gpu": "gpu-screen-recorder が予期せず終了しました。",
+      "failed-start": "録画を開始できませんでした。",
       "no-portals": "デスクトップポータルが実行されていません",
       "no-portals-desc": "xdg-desktop-portal およびコンポジタポータル (wlr/hyprland/gnome/kde) を起動してください。",
       "not-installed": "gpu-screen-recorder がインストールされていません",
       "not-installed-desc": "画面録画機能を使用するには gpu-screen-recorder をインストールしてください。",
-      "saved": "録画を保存しました",
-      "started": "録画を開始しました",
+      "saved": "録画を保存しました。",
+      "started": "録画を開始しました。",
       "stopping": "録画を停止中…"
     },
     "theming-processor-failed": {
-      "desc-generic": "テンプレートの処理中にエラーが発生しました",
+      "desc-generic": "テンプレートの処理中にエラーが発生しました。",
       "title-matugen": "Matugen テンプレート処理に失敗しました",
       "title-predefined": "プリセット配色の処理に失敗しました"
     },
     "vpn": {
-      "connected": "{name} に接続しました",
-      "disconnected": "{name} から切断しました"
+      "connected": "{name} に接続しました。",
+      "disconnected": "{name} から切断しました。"
     },
     "wallpaper-colors": {
-      "disabled": "壁紙配色の生成: 無効",
-      "enabled": "壁紙配色の生成: 有効",
+      "disabled": "壁紙配色の生成: 無効。",
+      "enabled": "壁紙配色の生成: 有効。",
       "label": "壁紙配色の生成",
-      "not-installed": "Matugen がインストールされていません（壁紙からの色抽出に必要です）"
+      "not-installed": "Matugen がインストールされていません（壁紙からの色抽出に必要です）。"
     },
     "wifi": {
-      "connected": "{ssid} に接続しました",
-      "connection-failed": "接続に失敗しました",
-      "connection-timeout": "接続タイムアウト",
-      "disabled": "無効",
-      "disconnected": "{ssid} から切断しました",
-      "enabled": "有効",
+      "connected": "{ssid} に接続しました。",
+      "connection-failed": "接続に失敗しました。",
+      "connection-timeout": "接続タイムアウト。",
+      "disabled": "無効。",
+      "disconnected": "{ssid} から切断しました。",
+      "enabled": "有効。",
       "incorrect-password": "パスワードが違います。",
       "network-not-found": "ネットワークが見つかりません。"
     }
@@ -3075,7 +3075,7 @@
     "try-different-search": "別の検索条件を試してください。",
     "unknown": "不明",
     "wallhaven": {
-      "loading": "壁紙を読み込み中...",
+      "loading": "壁紙を読み込み中..。",
       "no-results": "壁紙が見つかりません。別の検索条件を試してください。",
       "page": "{current} / {total}"
     }
@@ -3104,7 +3104,7 @@
       "palette": {
         "description": "豊富なプリセットカラーから選択します。",
         "label": "パレット",
-        "theme-colors": "テーマのカラーパレット"
+        "theme-colors": "テーマのカラーパレット。"
       },
       "title": "色選択"
     },
@@ -3157,7 +3157,7 @@
     },
     "file-picker": {
       "cancel": "キャンセル",
-      "search-placeholder": "ファイルとフォルダを検索...",
+      "search-placeholder": "ファイルとフォルダを検索..。",
       "select-current": "現在のフォルダを選択する",
       "select-file": "ファイルを選択する",
       "select-folder": "フォルダを選択する",
@@ -3211,7 +3211,7 @@
       "password": "パスワード",
       "saved": "保存済み",
       "scan-again": "再スキャン",
-      "searching": "近くのネットワークを検索中...",
+      "searching": "近くのネットワークを検索中..。",
       "security": "セキュリティ",
       "title": "Wi-Fi"
     },
